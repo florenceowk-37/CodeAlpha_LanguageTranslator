@@ -24,7 +24,7 @@ A modern, sleek dark-theme desktop translator application built using Python and
 ## 📸 Screenshots
 
 ### Application Main UI
-* 
+* (Add your screenshots here)
 ---
 
 ## ⚙️ Installation & Setup
@@ -34,18 +34,24 @@ Ensure you have Python installed on your system. You can verify it via terminal:
 ### 2. Install Dependencies
 Run the following command in your terminal to install the necessary library:
 
+---
+
 ## 💻 Execution
 Navigate to your project directory and execute the script:
  `python CodeAlpha_LanguageTranslator.py`
+
+---
 
 ## 📂 Project Structure
 
 CodeAlpha_LanguageTranslator/
 │
-├── CodeAlpha_LanguageTranslator.py   # Main Python source code application script
-└── README.md                         # Detailed project documentation and setup manual
+├── CodeAlpha_LanguageTranslator.py  
+└── README.md                         
 
-## 🧑‍💻 Author
+---
+
+## 👩🏻‍💻 Author
 
 **Florence**
 * **Internship Profile:** Artificial Intelligence Intern at CodeAlpha  

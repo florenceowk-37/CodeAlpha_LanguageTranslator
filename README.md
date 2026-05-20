@@ -43,12 +43,12 @@ Navigate to your project directory and execute the script:
 ---
 
 ## 📂 Project Structure
-
+```
 CodeAlpha_LanguageTranslator/
-│
+|
 ├── CodeAlpha_LanguageTranslator.py  
 └── README.md                         
-
+```
 ---
 
 ## 👩🏻‍💻 Author

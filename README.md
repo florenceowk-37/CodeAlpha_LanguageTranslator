@@ -24,7 +24,8 @@ A modern, sleek dark-theme desktop translator application built using Python and
 ## 📸 Screenshots
 
 ### Application Main UI
-* (Add your screenshots here)
+* ![Application UI Preview](translator-ui.png)
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -45,9 +46,10 @@ Navigate to your project directory and execute the script:
 ## 📂 Project Structure
 ```
 CodeAlpha_LanguageTranslator/
-|
-├── CodeAlpha_LanguageTranslator.py  
-└── README.md                         
+│
+├── CodeAlpha_LanguageTranslator.py   # Main Python source code application script
+├── README.md                         # Detailed project documentation and setup manual
+└── translator-ui.png                 # Application User Interface screenshot                        
 ```
 ---
 
